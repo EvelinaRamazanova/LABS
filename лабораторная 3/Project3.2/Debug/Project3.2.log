@@ -1,0 +1,3 @@
+﻿  task1.c
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppCommon.targets(673,5): error MSB6006: "link.exe" завершилась с кодом 1561.
+LINK : fatal error LNK1561: точка входа должна быть определена
