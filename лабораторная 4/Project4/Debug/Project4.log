@@ -1,9 +1,0 @@
-﻿  task6.c
-c:\users\ramaz\documents\visual studio 2017\projects\project4\project4\task6.c(23): warning C4013: system: нет определения; предполагается "extern" с возвратом типа "int"
-c:\users\ramaz\documents\visual studio 2017\projects\project4\project4\task6.c(4): fatal error C1075: "<Нет данных>": не найдена несоответствующая лексема
-  task7.c
-c:\users\ramaz\documents\visual studio 2017\projects\project4\project4\task7.c(8): warning C4013: zadanie4: нет определения; предполагается "extern" с возвратом типа "int"
-c:\users\ramaz\documents\visual studio 2017\projects\project4\project4\task7.c(9): warning C4013: zadanie5: нет определения; предполагается "extern" с возвратом типа "int"
-c:\users\ramaz\documents\visual studio 2017\projects\project4\project4\task7.c(10): warning C4013: zadanie6: нет определения; предполагается "extern" с возвратом типа "int"
-  Создание кода...
-c:\users\ramaz\documents\visual studio 2017\projects\project4\project4\task7.c(11): warning C4716: zadanie7: должна возвращать значение

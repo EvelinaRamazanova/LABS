@@ -1,5 +1,0 @@
-﻿  task1.c
-c:\users\ramaz\documents\visual studio 2017\projects\лабораторная 2\project2\task1.c(26): warning C4477: "printf": в строке форматирования "%d" требуется аргумент типа "int", но вариативный аргумент "1" имеет тип "double"
-c:\users\ramaz\documents\visual studio 2017\projects\лабораторная 2\project2\task1.c(11): warning C4101: f: неиспользованная локальная переменная
-c:\users\ramaz\documents\visual studio 2017\projects\лабораторная 2\project2\task1.c(60): warning C4244: =: преобразование "double" в "float", возможна потеря данных
-  Project2.vcxproj -> C:\Users\ramaz\Documents\Visual Studio 2017\Projects\лабораторная 2\Debug\Project2.exe
